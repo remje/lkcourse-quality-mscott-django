@@ -1,3 +1,5 @@
+*Cloned This project in the context of a course on code quality*
+
 Django is a high-level Python Web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
 
